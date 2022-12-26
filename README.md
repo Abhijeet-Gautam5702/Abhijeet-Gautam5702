@@ -4,8 +4,8 @@
 
 ## 🚀 About Me
 ⭐ undergraduate student at I.I.T. Delhi, India.  
-⭐ eternal ❤️ for web development. I love building stuff and solving problems.
-⭐ learning publically and sharing my knowledge through blogs.
+⭐ eternal ❤️ for web development. I love building stuff and solving problems.  
+⭐ learning publically and sharing my knowledge through blogs.  
 ⭐ currently learning ReactJS.
 
 
