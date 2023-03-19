@@ -3,15 +3,15 @@
 
 
 ## 🚀 About Me
-⭐ undergraduate student at I.I.T. Delhi, India.  
-⭐ eternal ❤️ for web development. I love building stuff and solving problems.  
-⭐ learning publically and sharing my knowledge through blogs.  
-⭐ currently learning ReactJS.
+⭐ Undergraduate student at I.I.T. Delhi, India.  
+⭐ Eternal ❤️ for web development. I love building stuff and solving problems.  
+⭐ Learning in public and sharing my knowledge through blogs and tweets.  
+⭐ Currently working on React and Redux.
 
 
 ## 🛠 Skills
 ✨HTML ✨CSS ✨Sass (Sassy CSS) ✨JavaScript ✨ES6
-✨React(basic) ✨C/C++
+✨React ✨Redux Toolkit ✨Framer-motion ✨C/C++
 
 
 ## 🔗 Links
