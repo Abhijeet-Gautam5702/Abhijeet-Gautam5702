@@ -4,14 +4,14 @@
 
 ## 🚀 About Me
 ⭐ Undergraduate student at I.I.T. Delhi, India.  
-⭐ Eternal ❤️ for web development. I love building stuff and solving problems.  
+⭐ Eternal ❤️ for development. I love building stuff and solving problems.  
 ⭐ Learning in public and sharing my knowledge through blogs and tweets.  
-⭐ Currently working on React and Redux.
+⭐ Currently learning Flutter and improving on ReactJS.
 
 
 ## 🛠 Skills
 ✨HTML ✨CSS ✨Sass (Sassy CSS) ✨JavaScript ✨ES6
-✨React ✨Redux Toolkit ✨Framer-motion ✨C/C++
+✨React ✨Redux Toolkit ✨Framer-motion ✨C/C++ ✨Flutter 
 
 
 ## 🔗 Links
