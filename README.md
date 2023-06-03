@@ -10,8 +10,8 @@
 
 
 ## 🛠 Skills
-✨HTML ✨CSS ✨Sass (Sassy CSS) ✨JavaScript ✨ES6
-✨React ✨Redux Toolkit ✨Framer-motion ✨C/C++ ✨Flutter 
+✨HTML ✨CSS ✨Sass (Sassy CSS) ✨Tailwind CSS ✨JavaScript ✨TypeScript
+✨React ✨NextJS ✨Redux Toolkit ✨Framer-motion ✨C/C++ ✨Flutter 
 
 
 ## 🔗 Links
