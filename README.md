@@ -7,7 +7,7 @@
 
 <p align="center"> <a href="https://twitter.com/abhijeet_gautam" target="blank"><img src="https://img.shields.io/twitter/follow/abhijeet_gautam?logo=twitter&style=for-the-badge" alt="abhijeet_gautam" /></a> </p>
 
-- 🔭 I’m currently working on [Code Connect](https://github.com/Abhijeet-Gautam5702/code_connect_backend) & [Video Sharing Platform](https://github.com/Abhijeet-Gautam5702/video_sharing_platform_backend)
+- 🔭 I’m currently working on [Code Connect](https://github.com/Abhijeet-Gautam5702/code_connect_backend)
 
 - 🌱 I’m currently learning **Backend Development using Node/Express and MongoDB/Mongoose**
 
