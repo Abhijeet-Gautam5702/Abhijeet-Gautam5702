@@ -7,9 +7,7 @@
 
 <p align="center"> <a href="https://twitter.com/abhijeet_gautam" target="blank"><img src="https://img.shields.io/twitter/follow/abhijeet_gautam?logo=twitter&style=for-the-badge" alt="abhijeet_gautam" /></a> </p>
 
-- 🌱 I’m currently learning **Backend Development using Node/Express and MongoDB/Mongoose**
-
-- 👨‍💻 [My personal portfolio](https://abhijeetgautam.netlify.app/)
+- 🌱 I’m currently learning **NextJS**
 
 - 📝 I regularly write articles on [Hashnode](https://abhijeet05writes.hashnode.dev/)
 
@@ -17,7 +15,7 @@
 
 - 📫 Reach out to me on **abhidevelops572@gmail.com**
 
-- 📄 [Know about my experiences](https://drive.google.com/file/d/1yyw1Wx9QSUgRzMzp46dyRhCVL3lkvV0S/view?usp=sharing)
+- 📄 [My Resume](https://drive.google.com/file/d/1mvK50PiaORcEwCRdbqJ3lc67VTuORzNH/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
