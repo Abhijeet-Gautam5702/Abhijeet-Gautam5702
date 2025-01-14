@@ -7,11 +7,11 @@
 
 <p align="center"> <a href="https://twitter.com/abhijeet_gautam" target="blank"><img src="https://img.shields.io/twitter/follow/abhijeet_gautam?logo=twitter&style=for-the-badge" alt="abhijeet_gautam" /></a> </p>
 
-- 🌱 I’m currently learning **NextJS**
+- 🔨 Currently building my own web authentication provider [Auth Wave](https://authwave.in), open-sourced [here](https://github.com/Auth-Wave)
 
-- 📝 I regularly write articles on [Hashnode](https://abhijeet05writes.hashnode.dev/)
+- 📝 I write articles on [Hashnode](https://abhijeet05writes.hashnode.dev/)
 
-- 💬 Happy to collaborate on projects related to **React, Node and Flutter**
+- 💬 Happy to collaborate on projects related to **NEXT, React & Node-JS**
 
 - 📫 Reach out to me on **abhidevelops572@gmail.com**
 
