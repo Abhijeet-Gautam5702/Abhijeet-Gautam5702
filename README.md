@@ -10,7 +10,7 @@
 
 ## PROJECTS
 - 🐼 [Panda-Q](https://github.com/Abhijeet-Gautam5702/Panda-Q) - A single-node message broker written in TypeScript.
-- 🛡️ [Auth Wave](https://github.com/Auth-Wave) - Authentication provider for web apps
+- 🛡️ [Auth Wave](https://github.com/Auth-Wave) - Authentication provider and user management service for web applications.
 
 ## BLOG POSTS
 - [Nonces - Securing Authentication](https://blogs.abhijeetgautam.in/how-to-secure-your-authentication-using-nonces)
