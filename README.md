@@ -19,5 +19,5 @@
 - [Dart Fundamentals (Part-1)](https://blogs.abhijeetgautam.in/dart-part-1-datatypes-and-keywords)
 
 ## CONNECT WITH ME
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/placeholder)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijeet-gautam-a413b1211/)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/abhijeet_gautam)
