@@ -9,8 +9,8 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 ## PROJECTS
-- 🐼 [Panda-Q](https://github.com/placeholder) - Efficient task queuing system designed for massive scalability and reliable processing.
-- 🛡️ [Auth Wave](https://github.com/placeholder) - Authen.
+- 🐼 [Panda-Q](https://github.com/Abhijeet-Gautam5702/Panda-Q) - Efficient task queuing system designed for massive scalability and reliable processing.
+- 🛡️ [Auth Wave](https://github.com/Auth-Wave) - Authen.
 
 ## BLOG POSTS
 - [Nonces - Securing Authentication](https://blogs.abhijeetgautam.in/how-to-secure-your-authentication-using-nonces)
