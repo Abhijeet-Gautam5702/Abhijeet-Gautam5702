@@ -1,4 +1,4 @@
-# Abhijeet Gautam 💻
+# Abhijeet Gautam
 
 📍 India | Building the future of software
 
