@@ -1,6 +1,6 @@
 # Abhijeet Gautam
 
-📍 India | Building the future of software
+📍 India | Building software from scratch 
 
 ### Tech Stack
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
