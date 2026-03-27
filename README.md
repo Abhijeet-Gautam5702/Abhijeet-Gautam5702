@@ -9,9 +9,9 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 ## PROJECTS
+- 📂 [forg](https://github.com/Abhijeet-Gautam5702/forg) - A file organiser CLI tool for lazy devs.
 - 🐼 [Panda-Q](https://github.com/Abhijeet-Gautam5702/Panda-Q) - A single-node message broker written in TypeScript.
 - 🛡️ [Auth Wave](https://github.com/Auth-Wave) - Authentication provider and user management service for web applications.
-- 📂 [forg](https://github.com/Abhijeet-Gautam5702/forg) - A file organiser CLI tool for lazy devs.
 
 ## BLOG POSTS
 - [Nonces - Securing Authentication](https://blogs.abhijeetgautam.in/how-to-secure-your-authentication-using-nonces)
