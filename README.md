@@ -1,6 +1,6 @@
 # Abhijeet Gautam
 
-📍 India | Building software from scratch 
+📍 India | Backend and Systems Engineer
 
 ### Tech Stack
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
