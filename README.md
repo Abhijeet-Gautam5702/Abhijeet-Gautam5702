@@ -10,7 +10,7 @@
 
 ## PROJECTS
 - 🗄️ (W.I.P.) [Daton](https://github.com/Abhijeet-Gautam5702/daton) - Streaming & In-memory SQL engine for local data.
-- 📑 (W.I.P.) [Verdocs](https://github.com/Abhijeet-Gautam5702/verdocs) - CLI Tool to generate static versioned documentation websites.
+- 📑 [Verdocs](https://github.com/Abhijeet-Gautam5702/verdocs) - CLI Tool to generate static versioned documentation websites.
 - 📂 [forg](https://github.com/Abhijeet-Gautam5702/forg) - A file organiser CLI tool for lazy devs.
 - 🐼 [Panda-Q](https://github.com/Abhijeet-Gautam5702/Panda-Q) - A single-node message broker written in TypeScript.
 - 🛡️ [Auth Wave](https://github.com/Auth-Wave) - Authentication provider and user management service for web applications.
