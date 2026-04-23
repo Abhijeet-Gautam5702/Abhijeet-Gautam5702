@@ -1,6 +1,6 @@
 # Abhijeet Gautam
 
-📍 India | Backend and Systems Engineer | Building low level tools and systems
+📍 India | Backend and DevTools Engineer | Building performant low level tools and backend systems
 
 ### Tech Stack
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
