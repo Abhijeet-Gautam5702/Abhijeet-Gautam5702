@@ -9,7 +9,8 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 ## PROJECTS
-- 🗄️ (W.I.P.) [Daton](https://github.com/Abhijeet-Gautam5702/daton) - Streaming & In-memory SQL engine for local JSON files.
+- 🗄️ (Hold) [Daton](https://github.com/Abhijeet-Gautam5702/daton) - Streaming & In-memory SQL engine for local JSON files.
+- 📨 (W.I.P) [Axo](https://github.com/Abhijeet-Gautam5702/axo) - A single-node, high performance message-broker based on Kafka's storage architecture.
 - 📑 [Verdocs](https://github.com/Abhijeet-Gautam5702/verdocs) - CLI Tool to generate customised, static & versioned documentation websites with minimal effort.
 - 📂 [forg](https://github.com/Abhijeet-Gautam5702/forg) - A super-fast file organiser CLI tool to organise your messy folders in a single command.
 - 🐼 [Panda-Q](https://github.com/Abhijeet-Gautam5702/Panda-Q) - A single-node message broker implementation.
